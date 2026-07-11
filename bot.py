@@ -10,7 +10,7 @@ logging.basicConfig(
 )
 
 # Token Telegram Anda
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+TOKEN = '8622326904:AAEDNPkpIabVZ8cTWF7At6Tk73hMbNJct0c'
 
 # State untuk percakapan
 CHOOSING, GET_EMAIL, GET_PASSWORD, BATCH = range(4)
